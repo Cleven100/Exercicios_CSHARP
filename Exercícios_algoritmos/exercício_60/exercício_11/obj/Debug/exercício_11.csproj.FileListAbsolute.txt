@@ -1,0 +1,7 @@
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercício_11\exercício_11\bin\Debug\exercício_11.exe.config
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercício_11\exercício_11\bin\Debug\exercício_11.exe
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercício_11\exercício_11\bin\Debug\exercício_11.pdb
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercício_11\exercício_11\obj\Debug\exercício_11.csprojAssemblyReference.cache
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercício_11\exercício_11\obj\Debug\exercício_11.csproj.CoreCompileInputs.cache
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercício_11\exercício_11\obj\Debug\exercício_11.exe
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercício_11\exercício_11\obj\Debug\exercício_11.pdb

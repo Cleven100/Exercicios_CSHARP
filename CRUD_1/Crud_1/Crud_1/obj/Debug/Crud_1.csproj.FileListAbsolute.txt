@@ -1,0 +1,16 @@
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\bin\Debug\Crud_1.exe.config
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\bin\Debug\Crud_1.exe
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\bin\Debug\Crud_1.pdb
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.csprojAssemblyReference.cache
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.Form1.resources
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.Properties.Resources.resources
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.csproj.GenerateResource.cache
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.csproj.CoreCompileInputs.cache
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.exe
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.pdb
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.Form2.resources
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.Form3.resources
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.cadProduto.resources
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.cadCliente.resources
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.cadFuncionario.resources
+C:\Users\Cleven-PC\Desktop\Aulas\CRUD_1\Crud_1\Crud_1\obj\Debug\Crud_1.cadLocatario.resources

@@ -1,0 +1,7 @@
+C:\Users\Cleven-PC\source\repos\exercicio_7\exercicio_7\bin\Debug\exercicio_7.exe.config
+C:\Users\Cleven-PC\source\repos\exercicio_7\exercicio_7\bin\Debug\exercicio_7.exe
+C:\Users\Cleven-PC\source\repos\exercicio_7\exercicio_7\bin\Debug\exercicio_7.pdb
+C:\Users\Cleven-PC\source\repos\exercicio_7\exercicio_7\obj\Debug\exercicio_7.csprojAssemblyReference.cache
+C:\Users\Cleven-PC\source\repos\exercicio_7\exercicio_7\obj\Debug\exercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\Cleven-PC\source\repos\exercicio_7\exercicio_7\obj\Debug\exercicio_7.exe
+C:\Users\Cleven-PC\source\repos\exercicio_7\exercicio_7\obj\Debug\exercicio_7.pdb

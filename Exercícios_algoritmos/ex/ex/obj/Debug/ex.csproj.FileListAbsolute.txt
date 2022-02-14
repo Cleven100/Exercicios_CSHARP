@@ -1,0 +1,7 @@
+C:\Users\Cleven-PC\source\repos\ex\ex\bin\Debug\ex.exe.config
+C:\Users\Cleven-PC\source\repos\ex\ex\bin\Debug\ex.exe
+C:\Users\Cleven-PC\source\repos\ex\ex\bin\Debug\ex.pdb
+C:\Users\Cleven-PC\source\repos\ex\ex\obj\Debug\ex.csprojAssemblyReference.cache
+C:\Users\Cleven-PC\source\repos\ex\ex\obj\Debug\ex.csproj.CoreCompileInputs.cache
+C:\Users\Cleven-PC\source\repos\ex\ex\obj\Debug\ex.exe
+C:\Users\Cleven-PC\source\repos\ex\ex\obj\Debug\ex.pdb

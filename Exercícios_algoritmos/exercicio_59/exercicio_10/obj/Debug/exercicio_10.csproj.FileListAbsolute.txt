@@ -1,0 +1,6 @@
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercicio_10\exercicio_10\bin\Debug\exercicio_10.exe.config
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercicio_10\exercicio_10\bin\Debug\exercicio_10.exe
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercicio_10\exercicio_10\bin\Debug\exercicio_10.pdb
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercicio_10\exercicio_10\obj\Debug\exercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercicio_10\exercicio_10\obj\Debug\exercicio_10.exe
+C:\Users\Cleven-PC\Desktop\Aulas\Exercícios\exercicio_10\exercicio_10\obj\Debug\exercicio_10.pdb
